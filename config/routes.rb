@@ -1,6 +1,6 @@
 Rails.application.routes.draw do
 
-	get 'pages/about'
+  get 'pages/about'
 
   get 'pages/requirement'
 
